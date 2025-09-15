@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jemi-code
-- 👀 I’m interested in website developing and app development. I know HTML, CSS, Sass(SCSS), Bootstrap, Javascript, Adobe XD, Git, React, Redux, JQuery and SQL
-- 🌱 I’m currently learning Database Mangement and Design using MySQL, Node.js and Canva
-- 💞️ I’m looking to collaborate on website development on any kind. I am new to all this to take it easy with me lol.
+- 👀 I’m doing my masters in Astrophysics with my project focusing on Radio Interferometry
+- 🌱 I’m working with Python, CASA and coffee
+- 💞️ I’m looking to collaborate and get advise on any of my repositories
 - 📫 How to reach me jemimahkwakuyi@gmail.com
 
 <!---
